@@ -1,6 +1,0 @@
-{
-    "require": {
-        "coffeecode/datalayer": "^2.0",
-        "dompdf/dompdf": "^1.2"
-    }
-}
